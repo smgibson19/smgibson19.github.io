@@ -25,6 +25,7 @@ end
 group :jekyll_plugins do
   gem 'github-pages'
   gem 'jekyll-octicons'
+end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
