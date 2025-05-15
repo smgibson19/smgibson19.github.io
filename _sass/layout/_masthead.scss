@@ -3,11 +3,11 @@
    ========================================================================== */
 
 .masthead {
-  // position: fixed;
+  position: fixed;
   background: var(--global-bg-color);
   height: fit-content;
   top: 0;
-  width: 100%;
+  // width: 100%;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
