@@ -47,8 +47,9 @@
 .masthead__menu {
 
   ul {
-    margin: auto; //center nav menu
-    font-size: $type-size-4;
+    //margin: auto; //center nav menu
+    float: right;
+    font-size: $type-size-5;
     padding: 0;
     clear: both;
     list-style-type: none;
@@ -62,7 +63,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+    padding-right: 0em;
+    // font-weight: 700;
   }
 }
