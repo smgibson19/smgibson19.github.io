@@ -3,7 +3,6 @@
    ========================================================================== */
 
 .masthead {
-  width: center;
   position: fixed;
   background: var(--global-bg-color);
   height: fit-content;
@@ -48,8 +47,8 @@
 .masthead__menu {
 
   ul {
-    margin: 0;
-    padding: 0;
+    margin: center;
+    padding: auto;
     clear: both;
     list-style-type: none;
   }
