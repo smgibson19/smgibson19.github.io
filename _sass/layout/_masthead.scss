@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  position: auto;
+  position: fixed;
   background: var(--global-bg-color);
   height: fit-content;
   top: 0;
@@ -61,7 +61,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 5em;
     font-weight: 700;
   }
 }
