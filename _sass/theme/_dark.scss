@@ -7,10 +7,13 @@ $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
-$lilac                      : #C8A1E0;
 
-/*#F7EFE5, #E2BFD9, #C8A1E0, #674188*/
-$background                 : #674188;
+$plum                       : #674188;
+$lilac                      : #C8A1E0;
+$thistle                    : #E2BFD9;
+$eggshell                   : #F7EFE5;
+
+$background                 : $plum;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
