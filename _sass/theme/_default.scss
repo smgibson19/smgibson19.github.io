@@ -14,7 +14,7 @@ $lilac                      : #C8A1E0;
 $thistle                    : #E2BFD9;
 $eggshell                   : #F7EFE5;
 
-$background                 : $plum;
+$background                 : $thistle;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
@@ -41,9 +41,9 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
 :root {
-    --global-base-color                 : #{$thistle};
-    --global-bg-color                   : #fff;
-    --global-footer-bg-color            : #f2f3f3;
+    --global-base-color                 : #{$background};
+    --global-bg-color                   : #{$background};
+    --global-footer-bg-color            : #{$background};
     --global-border-color               : #{$background-lighter};
     --global-dark-border-color          : #bdc1c4;
     --global-code-background-color      : #fafafa;
@@ -53,8 +53,8 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color-hover           : mix(#000, #2f7f93, 25%);
     --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
     --global-masthead-link-color        : #{$dark-gray};
-    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
+    --global-masthead-link-color-hover  : mix(#000, #{$background}, 25%);    
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$lighter-gray};
+    --global-thead-color                : #{$background-lighter};
 }
