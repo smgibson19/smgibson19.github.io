@@ -14,6 +14,7 @@ $thistle                    : #E2BFD9;
 $eggshell                   : #F7EFE5;
 
 $background                 : $plum;
+$border                     : $lilac;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
@@ -43,8 +44,8 @@ html[data-theme="dark"] {
     --global-base-color                 : #{$background};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$background};
-    --global-border-color               : #{$lilac};
-    --global-dark-border-color          : #{$lilac};
+    --global-border-color               : #{$border};
+    --global-dark-border-color          : #{$border};
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : #{$light-gray};
