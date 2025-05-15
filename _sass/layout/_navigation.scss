@@ -194,7 +194,7 @@
     height: 2.5rem;
     right: 0;
     padding: 0 0.5rem;
-    border: 1;
+    border: 0;
     outline: none;
     background-color: var(--global-base-color);
     color: #fff;
@@ -343,8 +343,8 @@
 
   .active {
     margin-left: -0.5em;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
+    padding-left: 2em;
+    padding-right: 2em;
     color: #fff;
     font-weight: bold;
     background: var(--global-base-color);
