@@ -13,7 +13,7 @@ I spontaneously decided to apply to graduate school, with less than a month to c
 
 You may be thinking, "Well that seems kind of rash, maybe a bit compulsive". Trust me, I know.  
 
-It was a spontaneous decision, and I have no idea if it was the right decision. Regardless, I did it, and this is how it went.  
+It was off the cuff, and I have no idea if it was the right decision. Regardless, I did it, and this is how it went.  
 
 This journey began at the end of March 2025. Amidst job applications and self-paced online courses, I was emailing my professors, advisors, and other contacts seeking any kind of guidance. I was looking for a sign, something to jump out and shout at me "hey, you should do this"! A magical oracle to solve all my problems and tell me what's next.  
 
